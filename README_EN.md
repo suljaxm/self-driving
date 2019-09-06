@@ -1,19 +1,15 @@
 # self-driving
 ----
 
-[中文说明](README_CN.md) 
 
 > In this project I will record and show my achievements and future plans in the field of Self-Driving.
 
 
 ## TODO
-- [ ] Semantic-Segmentation
-- [ ] Unscented-Kalman-Filter-Project
-- [ ] Unscented_Kalman_Filter
-- [ ] 3D_Object_Tracking
 - [ ] VIO
-- [ ] 
-- [ ] 
+- [ ] 3D_Object_Tracking
+- [ ] Unscented_Kalman_Filter
+
 
 
 ## Work Done
